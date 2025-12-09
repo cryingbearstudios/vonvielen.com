@@ -1,0 +1,9 @@
+baseURL = 'http://vonvielen.com/'
+languageCode = 'en-us'
+title = 'Matt von Vielen'
+theme = 'custom'
+
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = false
+disableDefaultLanguageRedirect = false
+disableLanguages = []
